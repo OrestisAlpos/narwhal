@@ -1,6 +1,6 @@
 
 # Narwhal-HotStuff
-Narwhal-HotStuff: Jolteon (2-Phase HS implementation) over Narwhal a broadcast/mempool channel.
+Narwhal-HotStuff: Jolteon (2-Chain HS implementation) over Narwhal a broadcast/mempool channel.
 
 Forked from https://github.com/facebookresearch/narwhal/tree/narwhal-hs.
 
