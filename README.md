@@ -1,4 +1,10 @@
-# Narwhal HotStuff
+
+# Narwhal-HotStuff
+Narwhal-HotStuff: Jolteon (2-Phase HS implementation) over Narwhal a broadcast/mempool channel.
+
+Forked from https://github.com/facebookresearch/narwhal/tree/narwhal-hs.
+
+---
 
 [![rustc](https://img.shields.io/badge/rustc-1.51+-blue?style=flat-square&logo=rust)](https://www.rust-lang.org)
 [![license](https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square)](LICENSE)
